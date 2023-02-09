@@ -30,12 +30,12 @@
 </ul>
 <h2>Websites 💻 </h2>
 
-[CodePen](https://codepen.io)<br>
-[PageSpeed Insights](https://pagespeed.web.dev)<br>
-[W3C](https://www.w3.org)<br>
-[Dribbble](https://dribbble.com)<br>
-[uTest](https://www.utest.com)<br>
-[Udemy](https://www.udemy.com)
+[CodePen](https://codepen.io)- online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets<br>
+[PageSpeed Insights](https://pagespeed.web.dev)- Google's tool designed to help a website's performance optimizations<br>
+[W3C](https://www.w3.org)- the main international standards organization for the World Wide Web<br>
+[Dribbble](https://dribbble.com)- social networking platform for digital designers and creatives to share portfolio<br>
+[uTest](https://www.utest.com)- crowdtesting platform and freelance tester community<br>
+[Udemy](https://www.udemy.com)- an education technology company that provides an online learning and teaching platform
 
 <h2>Books 📚 </h2>
 <ul>

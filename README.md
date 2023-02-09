@@ -29,12 +29,14 @@
   <li>PostgreSQL - Udemy</li>
 </ul>
 <h2>Websites 💻 </h2>
+
 [CodePen](https://codepen.io)
 [PageSpeed Insights](https://pagespeed.web.dev)
 [W3C](https://www.w3.org)
 [Dribbble](https://dribbble.com)
 [uTest](https://www.utest.com)
 [Udemy](https://www.udemy.com)
+
 <h2>Books 📚 </h2>
 <ul>
   <li>Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy</li>

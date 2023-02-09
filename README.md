@@ -47,9 +47,9 @@
 </ul>
 <h2>Books 📚 </h2>
 <ul>
-  <li>Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy</li>
-  <li>Steve Krug - Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych</li>
-  <li>Beata Błaszczyk - English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko - in progress</li>
+  <li>Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy.</li>
+  <li>Steve Krug - Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych.</li>
+  <li>Beata Błaszczyk - English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko. - in progress</li>
 </ul>
 <h2>My projects 🗂</h2>
 

@@ -27,7 +27,7 @@
   <li>HTML / CSS / RWD - Udemy, part 1/4 - I intend to pass next parts</li>
   <li>Jira-Project Management - Udemy</li>
   <li>API/POSTMAN - Udemy </li>
-  <li>PostgreSQL - Udemy</li>
+  <li>PostgreSQL - Udemy - in progress</li>
 </ul>
 <h2>Websites 💻</h2>
 

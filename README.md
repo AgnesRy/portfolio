@@ -34,9 +34,9 @@
 </ul>
 <h2>Certificates 📜</h2> 
 <ul>
-  <li>ISTQB Foundation Level <a href="https://drive.google.com/file/d/1LMHtjk8Mfo19gRUA-qlqwDbYzPSoZ0K2/view?usp=share_link" target="_blank">🔍</a></li>
-  <li>HTML / CSS / RWD - Udemy, part 1/4 - I intend to pass next parts</li>
-  <li>Jira-Project Management - Udemy</li>
+  <li>ISTQB Foundation Level<a href="https://drive.google.com/file/d/1LMHtjk8Mfo19gRUA-qlqwDbYzPSoZ0K2/view?usp=share_link" target="_blank">🔍</a></li>
+  <li>HTML/CSS/RWD part 1/4<a href="https://drive.google.com/file/d/1FKuBAdTst8LfOFxwNZ-9jGf2ASDQqX4x/view?usp=share_link" target="_blank">🔍</a></li>
+  <li>Jira-Project Management<a href="https://drive.google.com/file/d/1NUkJaK6FFqtUepjSO9SZY2z3O1iablKR/view?usp=share_link" target="_blank">🔍</a></li>
   <li>API/Postman - Udemy </li>
   <li>PostgreSQL - Udemy - in progress</li>
 </ul>

@@ -54,7 +54,6 @@
 <h2>Links 📝 </h2>
 uTest: https://www.utest.com/profile/AgnesRy/about
 <br>
-<br>
 LinkedIn: https://www.linkedin.com/in/agnieszka-rynkowska-63210aa2/
 <h2>My projects 🗂</h2>
 

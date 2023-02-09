@@ -35,6 +35,8 @@
 [Dribbble](https://dribbble.com)
 [uTest](https://www.utest.com)
 [Udemy](https://www.udemy.com)
+
+[CodePen](https://codepen.io)
 <h2>Books 📚 </h2>
 <ul>
   <li>Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy</li>

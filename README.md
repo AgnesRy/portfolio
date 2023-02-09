@@ -7,7 +7,7 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>API</li>
-  <li>SQL</li>
+  <li>SQL - in progress</li>
 </ul> 
 <h2>Tools 🛠</h2>
 <ul>

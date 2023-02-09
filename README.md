@@ -7,12 +7,13 @@
   <li>HTML</li>
   <li>CSS</li>
   <li>API</li>
-  <li>PostgreSQL</li>
+  <li>SQL</li>
 </ul> 
 <h2>Tools 🛠</h2>
 <ul>
   <li>Jira</li>
   <li>Postman</li>
+  <li>PostgreSQL</li>
   <li>Charles Proxy</li>
   <li>Fiddler Proxy</li>
   <li>iMazing</li>

@@ -37,6 +37,8 @@
 [Udemy](https://www.udemy.com/)
 
 <a href="#https://codepen.io/">CodePen</a>
+
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 <h2>Books 📚 </h2>
 <ul>
   <li>Adam Roman, Lucjan Stapp - Certyfikowany tester ISTQB. Poziom podstawowy</li>

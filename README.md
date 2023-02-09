@@ -21,6 +21,16 @@
   <li>pgAdmin 4</li>
   <li>GitHub</li>
 </ul>
+<h2>Skills 💡 </h2>
+<ul>
+  <li>Team management</li>
+  <li>English level B2</li>
+  <li>Communication skills</li>
+  <li>Scheduling</li>
+  <li>Time management</li>
+  <li>Analytical thinking</li>
+  <li>Ability to work independently</li>
+</ul>
 <h2>Certificates 📜</h2> 
 <ul>
   <li>ISTQB Foundation Level </li>

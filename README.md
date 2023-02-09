@@ -52,7 +52,7 @@
   <li>Beata Błaszczyk - English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko. (in progress)</li>
 </ul>
 <h2>Links 📝 </h2>
-uTest: https://www.utest.com/profile/AgnesRy/about
+<a href="https://www.utest.com/profile/AgnesRy/about" target="_blank">uTest</a>
 <br>
 <a href="https://www.linkedin.com/in/agnieszka-rynkowska-63210aa2/" target="_blank">LinkedIn</a>
 <h2>My projects 🗂</h2>

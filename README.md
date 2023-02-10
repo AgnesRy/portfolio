@@ -41,7 +41,7 @@
   <li>API/Postman<a href="https://drive.google.com/file/d/1w7VsKStHD-W9vdkx4lj05Ro7TdJd-1BF/view?usp=share_link" target="_blank"> 🔗</a></li>
   <li>PostgreSQL - in progress</li>
 </ul>
-<h2>Websites 💻</h2><br>
+<h2>Websites 💻</h2>
 [CodePen](https://codepen.io): online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.<br>
 [PageSpeed Insights](https://pagespeed.web.dev): Google's tool designed to help a website's performance optimizations.<br>
 [W3C](https://www.w3.org): the main international standards organization for the World Wide Web.<br>

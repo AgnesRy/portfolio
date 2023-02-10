@@ -1,7 +1,7 @@
 <h1><strong>Portfolio</strong></h1>
 <br>
 <h2>About me 🪪</h2>
-<p>My name is Agnieszka Rynkowska, I am a Master of Management since 2016, graduated in Poznań 🇵🇱 .<br>I am the Manager a team of 15, I have 10 years expierience as Store Manager. Additionally since 10/2022 I've tested software on crowdtesting platform uTest. I've always been interested in new techonogies.<br>My goal is rebrand not because IT is so desirable industry right now, but because I feel this is right place for me to work and develop my knowledge. On this site I would like to introduce myself from technical side.</p>
+<p>My name is Agnieszka Rynkowska, I am a Master of Management since 2016, graduated in Poznań 🇵🇱 .<br>I am the Manager a team of 15 employees, I have 10 years expierience as Store Manager. Additionally since 10/2022 I've tested software on crowdtesting platform uTest. I've always been interested in new techonogies.<br>My goal is rebrand not because IT is so desirable industry right now, but because I feel this is right place for me to work and develop my knowledge. On this site I would like to introduce myself from technical side.</p>
 <h2>Technologies 💾</h2>
 <ul>
   <li>HTML</li>
@@ -13,7 +13,6 @@
 <ul>
   <li>Jira</li>
   <li>Postman</li>
-  <li>PostgreSQL</li>
   <li>Charles Proxy</li>
   <li>Fiddler Proxy</li>
   <li>iMazing</li>
@@ -21,6 +20,7 @@
   <li>Visual Studio Code</li>
   <li>pgAdmin 4</li>
   <li>GitHub</li>
+  <li>PostgreSQL - in progress</li>
 </ul>
 <h2>Skills 💡 </h2>
 <ul>
@@ -31,6 +31,7 @@
   <li>Time management</li>
   <li>Analytical thinking</li>
   <li>Ability to work independently</li>
+  <li>Recruitment</li>
 </ul>
 <h2>Certificates 📜</h2> 
 <ul>
@@ -38,7 +39,7 @@
   <li>HTML/CSS/RWD part 1/4<a href="https://drive.google.com/file/d/1FKuBAdTst8LfOFxwNZ-9jGf2ASDQqX4x/view?usp=share_link" target="_blank"> 🔗</a></li>
   <li>Jira-Project Management<a href="https://drive.google.com/file/d/1NUkJaK6FFqtUepjSO9SZY2z3O1iablKR/view?usp=share_link" target="_blank"> 🔗</a></li>
   <li>API/Postman<a href="https://drive.google.com/file/d/1w7VsKStHD-W9vdkx4lj05Ro7TdJd-1BF/view?usp=share_link" target="_blank"> 🔗</a></li>
-  <li>PostgreSQL - Udemy - in progress</li>
+  <li>PostgreSQL - in progress</li>
 </ul>
 <h2>Websites 💻</h2>
 
@@ -67,4 +68,9 @@
 <br>
 <a href="https://www.linkedin.com/in/agnieszka-rynkowska-63210aa2/" target="_blank">LinkedIn</a>
 <h2>My projects 🗂</h2>
-
+<ol>
+  <li>My portfolio code</li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol> 

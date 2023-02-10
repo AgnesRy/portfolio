@@ -61,10 +61,6 @@
   <li>Steve Krug - <em>Nie każ mi myśleć! O życiowym podejściu do funkcjonalności stron internetowych.</em></li>
   <li>Beata Błaszczyk - <em>English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko.</em> (in progress)</li>
 </ul>
-<h2>Links 📝 </h2>
-<a href="https://www.utest.com/profile/AgnesRy/about" target="_blank">uTest</a>
-<br>
-<a href="https://www.linkedin.com/in/agnieszka-rynkowska-63210aa2/" target="_blank">LinkedIn</a>
 <h2>My projects 🗂</h2>
 <ol>
   <li>My portfolio code</li>
@@ -72,3 +68,15 @@
   <li></li>
   <li></li>
 </ol> 
+<h2>Hobbies 🕹 </h2>
+<ul>
+  <li>Gaming PC/PS4</li>
+  <li>Art Museums</li>
+  <li>Travel within Europe</li>
+  <li>Beauty care</li>
+  <li>Sewing</li>
+</ul> 
+<h2>Links 📝 </h2>
+<a href="https://www.utest.com/profile/AgnesRy/about" target="_blank">uTest</a>
+<br>
+<a href="https://www.linkedin.com/in/agnieszka-rynkowska-63210aa2/" target="_blank">LinkedIn</a>

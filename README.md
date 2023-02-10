@@ -65,8 +65,8 @@
 <h2>My projects 🗂</h2>
 <ol>
   <li>My portfolio code</li>
-  <li></li>
-  <li></li>
+  <li><a href="https://drive.google.com/file/d/1ZHOnIPOM5KdBACZaf7fmp2DXYnuN_gRO/view?usp=share_link" target="_blank">Bug report</a></li>
+  <li><a href="https://drive.google.com/file/d/12ySqAlP5N094NjFQmJrDG4xMvHsFF9Mr/view?usp=share_link" target="_blank">Bug report2</a></li>
   <li></li>
 </ol> 
 <h2>Hobbies 🕹 </h2>

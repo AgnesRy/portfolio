@@ -42,14 +42,14 @@
   <li>PostgreSQL - in progress</li>
 </ul>
 <h2>Websites 💻</h2>
-
+<br>
 [CodePen](https://codepen.io): online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets.<br>
 [PageSpeed Insights](https://pagespeed.web.dev): Google's tool designed to help a website's performance optimizations.<br>
 [W3C](https://www.w3.org): the main international standards organization for the World Wide Web.<br>
 [Dribbble](https://dribbble.com): social networking platform for digital designers and creatives to share portfolio.<br>
 [uTest](https://www.utest.com): crowdtesting platform and freelance tester community.<br>
 [Udemy](https://www.udemy.com): an education technology company that provides an online learning and teaching platform.
-
+<br>
 <h2>Groups on Facebook 📱</h2>
 <ul>
   <li>Testowanie oprogramowania - wsparcie na starcie</li>

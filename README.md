@@ -5,8 +5,8 @@
 <h2>Technologies 💾</h2>
 <ul>
   <li>HTML ★ ☆ ☆ </li>
-  <li>CSS &nbsp;★ ☆ ☆</li>
-  <li>API &nbsp;★ ☆ ☆</li>
+  <li>CSS ★ ☆ ☆</li>
+  <li>API ★ ☆ ☆</li>
   <li>SQL - in progress</li>
 </ul> 
 <h2>Tools 🛠</h2>

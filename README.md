@@ -4,9 +4,9 @@
 <p>My name is Agnieszka Rynkowska, I am a Master of Management since 2016, graduated in Poznań 🇵🇱 .<br>I am the Manager a team of 15 employees, I have 10 years expierience as Store Manager. Additionally since 10/2022 I've tested software on crowdtesting platform uTest. I've always been interested in new techonogies.<br>My goal is rebrand not because IT is so desirable industry right now, but because I feel this is right place for me to work and develop my knowledge. On this site I would like to introduce myself from technical side.</p>
 <h2>Technologies 💾</h2>
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>API</li>
+  <li>HTML ★ ☆ ☆ </li>
+  <li>CSS ★ ☆ ☆</li>
+  <li>API ★ ☆ ☆</li>
   <li>SQL - in progress</li>
 </ul> 
 <h2>Tools 🛠</h2>

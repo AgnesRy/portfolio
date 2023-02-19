@@ -1,7 +1,9 @@
 <h1><strong>Portfolio</strong></h1>
 <br>
 <h2>About me 🪪</h2>
-<p>My name is Agnieszka Rynkowska, I am a Master of Management since 2016, graduated in Poznań 🇵🇱 . I am the Manager a team of 15 employees, I have 10 years expierience as Store Manager. Additionally since 10/2022 I've tested software on crowdtesting platform uTest.<br>I've always been interested in new techonogies. In my spare time I still learn and expand technical knowledge. My goal is rebrand not because IT is so desirable industry right now, but because I feel this is right place for me to work and develop. The job position I'm looking for is junior project manager where I could use my long-term experience in team management. On this site I would like to introduce myself from technical side. </p>
+<p>My name is Agnieszka Rynkowska, I am a Master of Management since 2016, graduated in Poznań 🇵🇱 . I am the Manager a team of 15 employees, I have 10 years expierience as Store Manager. Additionally since 10/2022 I've tested software on crowdtesting platform uTest.<br>I've always been interested in new techonogies. In my spare time I still learn and expand technical knowledge. 
+<br>  
+My goal is rebrand not because IT is so desirable industry right now, but because I feel this is right place for me to work and develop. The job position I'm looking for is junior project manager where I could use my long-term experience in team management. On this site I would like to introduce myself from technical side. </p>
 <h2>Technologies 💾</h2>
 <ul>
   <li>HTML ★ ☆ ☆ ☆ </li>
